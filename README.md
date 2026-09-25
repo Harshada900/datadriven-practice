@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/formal_wind_1091), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-09-25 |
 | [Buyers Who Never Browsed](./practice/sql/buyers-who-never-browsed) | SQL | Easy | 2026-09-25 |
 
 <!-- datadriven:index:end -->
